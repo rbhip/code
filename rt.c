@@ -1,7 +1,6 @@
-
+new comment
 // basic c file
 #include "stdio.h"
-
 int main()
 {
 	int a;
