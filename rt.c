@@ -5,7 +5,7 @@ int main()
 {
 	int a;
 	printf ("\n jenkins project");
-	printf ("\n");
+	printf ("\n hello");  
 	return 0;
 }
 
